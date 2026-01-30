@@ -1,18 +1,20 @@
 # Nova EDM Synth (JUCE)
 
-Nova is a custom EDM synthesizer plugin built using the JUCE framework.
+Nova is a custom EDM synthesizer plugin built using the JUCE framework, designed for modern electronic music production.
 
 ## Features
 - ADSR envelope
 - Stereo widening
-- Built-in effects (Reverb, Delay, Chorus)
-- MIDI keyboard support
+- Built-in Reverb, Delay, Chorus
+- Filter control
+- MIDI keyboard input
 - Custom animated UI
+- Genre & preset system
 
-## Screenshot
-![Nova UI](nova-ui.png)
+## Plugin UI
+![Nova EDM Synth UI](EDMNovaSynthScreenshot.png)
 
-## Tech Stack
+## Built With
 - C++
 - JUCE Framework
 - VST3 / AU
